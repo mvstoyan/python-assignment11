@@ -1,0 +1,3 @@
+Static charts don’t change, but interactive ones let you explore data.
+Dashboards help see live data and make quick decisions.
+Plotly and Dash make it easier to understand and share data.
